@@ -1,3 +1,7 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/psychoinformatics-de/studyforrest-data-structural.git
+[submodule "derivatives"]
+	path = derivatives
+	url = ./derivatives
+	datalad-id = bc2162f1-86a3-4231-85a9-b51536e2fc61
